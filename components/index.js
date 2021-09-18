@@ -1,0 +1,9 @@
+export { default as Navbar } from './Navbar/Navbar';
+export { default as Home } from './pages/Home/Home';
+export { default as About } from './pages/About/About';
+export { default as Projects } from './pages/Projects/Projects';
+export { default as Contact } from './pages/Contact/Contact';
+export { default as Footer } from './pages/Footer/Footer';
+export { default as SmoothScroll } from './SmoothScroll';
+export { default as ScrollIndicator } from './ScrollIndicator/ScrollIndicator';
+export { default as ToTopBtn } from './ToTopBtn/ToTopBtn';
